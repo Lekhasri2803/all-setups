@@ -15,3 +15,4 @@ sudo systemctl mask tmp.mount
 df -h /tmp
 sudo systemctl restart jenkins
 #updated the java version
+#testing webhooks
